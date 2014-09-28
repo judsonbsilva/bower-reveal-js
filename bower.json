@@ -5,7 +5,10 @@
     "Judson Silva <judsonbarroso@gmail.com>"
   ],
   "description": "A bower package to reveal.js",
-  "main": [\"js/reveal.min.js\",\"css/reveal.min.css\"],
+  "main": [
+    "js/reveal.min.js",
+    "css/reveal.min.css"
+  ],
   "license": "MIT",
   "homepage": "http://lab.hakim.se/reveal-js/",
   "ignore": [
@@ -14,5 +17,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/judsonbsilva/bower-reveal-js.git"
+  }
 }
