@@ -1,0 +1,18 @@
+{
+  "name": "bower-reveal-js",
+  "version": "0.0.1",
+  "authors": [
+    "Judson Silva <judsonbarroso@gmail.com>"
+  ],
+  "description": "A bower package to reveal.js",
+  "main": [\"js/reveal.min.js\",\"css/reveal.min.css\"],
+  "license": "MIT",
+  "homepage": "http://lab.hakim.se/reveal-js/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

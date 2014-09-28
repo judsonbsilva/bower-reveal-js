@@ -1,0 +1,49 @@
+{
+  "name": "modular",
+  "version": "0.0.0",
+  "description": "Sistema de automação escolar",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CodehouseBR/modular.git"
+  },
+  "authors": [
+    {
+      "name": "Gabriel Rubens",
+      "email": "grsabreu@gmail.com",
+      "url": "http://github.com/grsabreu"
+    },
+    {
+      "name": "Judson Silva",
+      "email": "judsonbarroso@gmail.com",
+      "url": "http://github.com/judsonbsilva"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodehouseBR/modular/issues"
+  },
+  "window": {
+    "toolbar": true,
+    "width": 1024,
+    "height": 768
+  },
+  "homepage": "https://github.com/CodehouseBR/modular",
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-cheerio": "^0.3.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-cssmin": "^0.1.5",
+    "gulp-dom-src": "^0.1.1",
+    "gulp-htmlmin": "^0.1.2",
+    "gulp-jshint": "^1.6.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.0"
+  },
+  "dependencies": {
+    "wiredep": "~1.7.3"
+  }
+}
