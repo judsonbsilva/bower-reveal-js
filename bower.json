@@ -2,6 +2,7 @@
   "name": "bower-reveal-js",
   "version": "0.0.1",
   "authors": [
+    "Hakim El Hattab <hakim.elhattab@gmail.com> (http://hakim.se)",
     "Judson Silva <judsonbarroso@gmail.com>"
   ],
   "description": "A bower package to reveal.js",
