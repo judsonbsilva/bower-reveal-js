@@ -3,12 +3,13 @@
   "version": "0.0.1",
   "authors": [
     "Hakim El Hattab <hakim.elhattab@gmail.com> (http://hakim.se)",
-    "Judson Silva <judsonbarroso@gmail.com>"
+    "Judson Silva <judsonbarroso@gmail.com>",
+    "Abhinandan Kothari <abhinandankothari@gmail.com>"
   ],
   "description": "A bower package to reveal.js",
   "main": [
-    "js/reveal.min.js",
-    "css/reveal.min.css"
+    "js/reveal.js",
+    "css/reveal.css"
   ],
   "license": "MIT",
   "homepage": "http://lab.hakim.se/reveal-js/",
